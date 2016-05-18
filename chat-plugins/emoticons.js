@@ -41,14 +41,8 @@ var emotes = {
 	'yayface': 'http://i.imgur.com/anY1jf8.png',
 	'yesface': 'http://i.imgur.com/k9YCF6K.png',
 	':kappa:': 'http://cbc.pokecommunity.com/config/emoticons/kappa.png',
-	':keepo:': 'http://cbc.pokecommunity.com/config/emoticons/keepo.png',
-	'trollface': 'http://football.hiblogger.net/img/avatar/2/2/b/images-i5r0k.jpg',
-	'facepalm': 'https://gic4.mycdn.me/image?t=41&bid=815381334416&id=815381334416&plc=WEB&tkn=*fyojSS1hmknaOJo9JsEkiCBzzvs',
-	':v': 'https://a08.t26.net/taringa/avatares/C/C/A/7/B/5/OmarDlahoz/120x120_ECD.jpg',
-	'yaoming': 'http://m.img.brothersoft.com/android/513/1352476872_icon.png',
-	'tdfw': 'https://media.riffsy.com/images/a3ef320b10efe5d315765ef22809c188/raw',
-	'(kapparainbow)': 'http://accounts-cdn.9gag.com/media/avatar/11199607_100_1.jpg',
-	'maburro': 'https://v.cdn.vine.co/r/avatars/20733739591165898737248612352_twitter_profilea10936df65.jpg.jpg?versionId=xkc8Lh5RP9wy_HT0pCZcCg2XMB2RpuiP'
+	':keepo:': 'http://cbc.pokecommunity.com/config/emoticons/keepo.png'
+	
 	
 };
 
