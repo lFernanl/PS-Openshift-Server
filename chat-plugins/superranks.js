@@ -5,11 +5,12 @@ var fs = require('fs');
 global.SuperRanks = {
 	ranks: {},
 	isHoster: function (userid) {
-		if (userid === 'kevinxzllz') return true;
+		if (userid === '0ariot') return true;
 		if (this.ranks[userid] && this.ranks[userid] === "h") return true;
 		return false;
 	},
 	isOwner: function (userid) {
+		if (userid === 'Niz') return true;
 		if (this.ranks[userid] && this.ranks[userid] === "o") return true;
 		return false;
 	},
